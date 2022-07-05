@@ -1,2 +1,3 @@
-# NonPhotorealisticRendering
-Non-Photorealistic Rendering OpenGL Project
+# Non-Photorealistic Rendering OpenGL Project
+
+Demo - https://youtu.be/n-hOX5wvtMo
